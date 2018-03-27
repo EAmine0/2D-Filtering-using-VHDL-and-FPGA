@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/D DRIVE/mscv_sem3/RTIC/project/vhdl/project_filter2D_GopikrishnaERABATI_Avinash/Filter2D/readWriteCache_tb_isim_beh.exe" -prj "E:/D DRIVE/mscv_sem3/RTIC/project/vhdl/project_filter2D_GopikrishnaERABATI_Avinash/Filter2D/readWriteCache_tb_beh.prj" "work.readWriteCache_tb" 

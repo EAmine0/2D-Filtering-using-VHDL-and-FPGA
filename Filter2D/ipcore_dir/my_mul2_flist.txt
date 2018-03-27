@@ -1,0 +1,15 @@
+# Output products list for <my_mul2>
+_xmsgs\pn_parser.xmsgs
+my_mul2.asy
+my_mul2.gise
+my_mul2.ngc
+my_mul2.sym
+my_mul2.vhd
+my_mul2.vho
+my_mul2.xco
+my_mul2.xise
+my_mul2\doc\floating_point_ds335.pdf
+my_mul2\doc\floating_point_v5_0_readme.txt
+my_mul2\doc\floating_point_v5_0_vinfo.html
+my_mul2_flist.txt
+my_mul2_xmdf.tcl

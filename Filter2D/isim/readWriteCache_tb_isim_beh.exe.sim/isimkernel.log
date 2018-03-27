@@ -1,0 +1,29 @@
+Command line:
+   readWriteCache_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50164
+
+Mon Jan 08 17:25:20 2018
+
+
+ Elaboration Time: 0.421202 sec
+
+ Current Memory Usage: 709.992 Meg
+
+ Total Signals          : 8168
+ Total Nets             : 30172
+ Total Signal Drivers   : 2814
+ Total Blocks           : 1805
+ Total Primitive Blocks : 1622
+ Total Processes        : 2472
+ Total Traceable Variables  : 3361
+ Total Scalar Nets and Variables : 46426
+Total Line Count : 7019
+
+ Total Simulation Time: 20.5297 sec
+
+ Current Memory Usage: 709.992 Meg
+
+Mon Jan 08 17:34:05 2018
+

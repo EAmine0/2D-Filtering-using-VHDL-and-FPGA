@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="test_MSCV" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/COMP2N8_TEST2 - arch_COMP2N8_TEST2 C:|Users|ge515497|Documents|VHDL|test_MSCV|comp2n8_t2.vhd</ClosedNode>
+         <ClosedNode>/Cache_memory - Behavioral C:|Users|ge515497|Documents|VHDL|test_MSCV|Cache_memory.vhd</ClosedNode>
+         <ClosedNode>/Cache_memory - Behavioral C:|temp|test_MSCV|test_MSCV|Cache_memory.vhd</ClosedNode>
+         <ClosedNode>/FF_D_gen - FF_D_gen_beh C:|Users|ge515497|Documents|VHDL|test_MSCV|FF_D_gen.vhd</ClosedNode>
+         <ClosedNode>/FF_D_gen - FF_D_gen_beh C:|temp|test_MSCV|test_MSCV|FF_D_gen.vhd</ClosedNode>
+         <ClosedNode>/FF_D_gen - FF_D_gen_beh E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|FF_D_gen.vhd</ClosedNode>
+         <ClosedNode>/FF_D_gen_test - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|FF_D_gen_test.vhd</ClosedNode>
+         <ClosedNode>/FIFO_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|FIFO_tb.vhd</ClosedNode>
+         <ClosedNode>/cache_sample_new - Behavioral C:|Users|ge515497|Documents|VHDL|test_MSCV|cache_sample_new.vhd</ClosedNode>
+         <ClosedNode>/cache_sample_new - Behavioral C:|temp|test_MSCV|test_MSCV|cache_sample_new.vhd</ClosedNode>
+         <ClosedNode>/cache_sample_new - Behavioral E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|cache_sample_new.vhd</ClosedNode>
+         <ClosedNode>/cache_sample_new_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|cache_sample_new_tb.vhd</ClosedNode>
+         <ClosedNode>/counterUpDown_test - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|counterUpDown_test.vhd</ClosedNode>
+         <ClosedNode>/processor_sample - Behavioral C:|Users|ge515497|Documents|VHDL|test_MSCV|processor_sample.vhd</ClosedNode>
+         <ClosedNode>/processor_sample - Behavioral E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|processor_sample.vhd</ClosedNode>
+         <ClosedNode>/readWriteCache_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|readWriteCache_tb.vhd</ClosedNode>
+         <ClosedNode>/stateMachine1_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|stateMachine1_tb.vhd</ClosedNode>
+         <ClosedNode>/stateMachine_op_decode - stateMachine_op_decode_beh C:|temp|test_MSCV|test_MSCV|stateMachine_op_decode.vhd</ClosedNode>
+         <ClosedNode>/stateMachine_op_decode_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|stateMachine_op_decode_tb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>cache_sample_new - Behavioral (E:/D DRIVE/mscv_sem3/RTIC/project/vhdl/test_MSCV/cache_sample_new.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000181000000020000000000000000000000000200000064ffffffff000000810000000300000002000001810000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>cache_sample_new - Behavioral (E:/D DRIVE/mscv_sem3/RTIC/project/vhdl/test_MSCV/cache_sample_new.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000130000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>cache_sample_new.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e7000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/COMP2N8_TEST2 - arch_COMP2N8_TEST2 C:|Users|ge515497|Documents|VHDL|Proj_4Stud|ex_tb|comp2n8_t2.vhd</ClosedNode>
+         <ClosedNode>/COMP2N8_TEST2 - arch_COMP2N8_TEST2 C:|Users|ge515497|Documents|VHDL|test_MSCV|comp2n8_t2.vhd</ClosedNode>
+         <ClosedNode>/Cache_memory - Behavioral C:|Users|ge515497|Documents|VHDL|test_MSCV|Cache_memory.vhd</ClosedNode>
+         <ClosedNode>/Cache_memory - Behavioral C:|temp|test_MSCV|test_MSCV|Cache_memory.vhd</ClosedNode>
+         <ClosedNode>/FF_D_gen_test - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|FF_D_gen_test.vhd</ClosedNode>
+         <ClosedNode>/FF_D_gen_test - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|FF_D_gen_test.vhd</ClosedNode>
+         <ClosedNode>/FIFO_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|FIFO_tb.vhd</ClosedNode>
+         <ClosedNode>/FIFO_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|FIFO_tb.vhd</ClosedNode>
+         <ClosedNode>/cache_sample_new - Behavioral C:|temp|test_MSCV|test_MSCV|cache_sample_new.vhd</ClosedNode>
+         <ClosedNode>/cache_sample_new_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|cache_sample_new_tb.vhd/uut - cache_sample_new - Behavioral</ClosedNode>
+         <ClosedNode>/cache_sample_new_tb - behavior C:|temp|test_MSCV|test_MSCV|cache_sample_new_tb.vhd</ClosedNode>
+         <ClosedNode>/cache_sample_new_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|cache_sample_new_tb.vhd</ClosedNode>
+         <ClosedNode>/cache_sample_tb - behavior C:|temp|test_MSCV|test_MSCV|cache_sample_tb.vhd/uut - cache_sample - cache_sample_struct</ClosedNode>
+         <ClosedNode>/counterUpDown_test - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|counterUpDown_test.vhd</ClosedNode>
+         <ClosedNode>/counterUpDown_test - behavior C:|temp|test_MSCV|test_MSCV|counterUpDown_test.vhd</ClosedNode>
+         <ClosedNode>/counterUpDown_test - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|counterUpDown_test.vhd</ClosedNode>
+         <ClosedNode>/my_adder_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|my_adder_tb.vhd</ClosedNode>
+         <ClosedNode>/my_adder_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|my_adder_tb.vhd</ClosedNode>
+         <ClosedNode>/my_divider_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|my_divider_tb.vhd</ClosedNode>
+         <ClosedNode>/my_mul2_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|my_mul2_tb.vhd</ClosedNode>
+         <ClosedNode>/my_mult_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|my_mult_tb.vhd</ClosedNode>
+         <ClosedNode>/processor_sample_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|processor_sample_tb.vhd</ClosedNode>
+         <ClosedNode>/processor_sample_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|processor_sample_tb.vhd</ClosedNode>
+         <ClosedNode>/readWriteCache_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|readWriteCache_tb.vhd</ClosedNode>
+         <ClosedNode>/readWriteCache_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|readWriteCache_tb.vhd</ClosedNode>
+         <ClosedNode>/stateMachine1_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|stateMachine1_tb.vhd</ClosedNode>
+         <ClosedNode>/stateMachine1_tb - behavior C:|temp|test_MSCV|test_MSCV|stateMachine1_tb.vhd</ClosedNode>
+         <ClosedNode>/stateMachine1_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|stateMachine1_tb.vhd</ClosedNode>
+         <ClosedNode>/stateMachine_op_decode_tb - behavior C:|Users|ge515497|Documents|VHDL|test_MSCV|stateMachine_op_decode_tb.vhd</ClosedNode>
+         <ClosedNode>/stateMachine_op_decode_tb - behavior C:|temp|test_MSCV|test_MSCV|stateMachine_op_decode_tb.vhd</ClosedNode>
+         <ClosedNode>/stateMachine_op_decode_tb - behavior E:|D DRIVE|mscv_sem3|RTIC|project|vhdl|test_MSCV|stateMachine_op_decode_tb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>test_MSCV</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000189000000020000000000000000000000000200000064ffffffff000000810000000300000002000001890000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>test_MSCV</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ISim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ISim Simulator</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="ManualCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>and_gate.vhd (C:/temp/test_MSCV/test_MSCV/and_gate.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000137000000020000000000000000000000000000000064ffffffff000000810000000000000002000000c70000000100000000000000700000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>and_gate.vhd (C:/temp/test_MSCV/test_MSCV/and_gate.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <CopyAdditionalFiles/>
+</Project>

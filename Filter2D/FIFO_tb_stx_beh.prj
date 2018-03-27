@@ -1,0 +1,2 @@
+vhdl isim_temp "ipcore_dir/FIFO_new.vhd"
+vhdl isim_temp "FIFO_tb.vhd"

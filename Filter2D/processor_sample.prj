@@ -1,0 +1,8 @@
+vhdl work "ipcore_dir/my_adder.vhd"
+vhdl work "ipcore_dir/my_mult.vhd"
+vhdl work "ipcore_dir/my_adder2.vhd"
+vhdl work "ipcore_dir/my_adder3.vhd"
+vhdl work "ipcore_dir/my_adder4.vhd"
+vhdl work "ipcore_dir/my_divider.vhd"
+vhdl work "FF_D.vhd"
+vhdl work "processor_sample.vhd"

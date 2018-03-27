@@ -1,0 +1,3 @@
+vhdl isim_temp "FF_D.vhd"
+vhdl isim_temp "FF_D_gen.vhd"
+vhdl isim_temp "FF_D_gen_test.vhd"

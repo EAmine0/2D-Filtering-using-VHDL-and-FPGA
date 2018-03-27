@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/D DRIVE/mscv_sem3/RTIC/project/vhdl/test_MSCV/processor_sample_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="bip_usecase_utils_pkg_v2_0" />
+            <top_module name="bip_utils_pkg_v2_0" />
+            <top_module name="c_addsub_pkg_v11_0" />
+            <top_module name="c_reg_fd_v11_0_comp" />
+            <top_module name="mult_gen_pkg_v11_2" />
+            <top_module name="numeric_std" />
+            <top_module name="processor_sample_tb" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_signed" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="vcomponents" />
+            <top_module name="vital_primitives" />
+            <top_module name="vital_timing" />
+            <top_module name="vpkg" />
+            <top_module name="xbip_addsub_v2_0_comp" />
+            <top_module name="xbip_pipe_v2_0_xst_comp" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="24" />
+   <wave_markers>
+      <marker time="200000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/processor_sample_tb/pixel1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel1[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pixel2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel2[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pixel3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel3[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pixel4" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel4[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel4[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pixel5" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel5[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel5[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pixel6" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel6[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel6[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pixel7" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel7[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel7[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pixel8" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel8[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel8[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pixel9" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pixel9[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel9[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal1[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal2[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal3[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal4" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal4[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal5" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal5[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal5[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal6" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal6[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal6[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal7" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal7[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal7[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal8" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal8[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal8[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/kernal9" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kernal9[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kernal9[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/divideby" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divideby[5:0]</obj_property>
+      <obj_property name="ObjectShortName">divideby[5:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/pen" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pen</obj_property>
+      <obj_property name="ObjectShortName">pen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/result" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">result[15:0]</obj_property>
+      <obj_property name="ObjectShortName">result[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/prdy" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">prdy</obj_property>
+      <obj_property name="ObjectShortName">prdy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processor_sample_tb/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>

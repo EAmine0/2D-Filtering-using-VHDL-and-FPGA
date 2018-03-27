@@ -1,0 +1,15 @@
+# Output products list for <my_adder2>
+_xmsgs\pn_parser.xmsgs
+my_adder2.asy
+my_adder2.gise
+my_adder2.ngc
+my_adder2.sym
+my_adder2.vhd
+my_adder2.vho
+my_adder2.xco
+my_adder2.xise
+my_adder2\doc\c_addsub_v11_0_readme.txt
+my_adder2\doc\c_addsub_v11_0_vinfo.html
+my_adder2\doc\ds214_addsub.pdf
+my_adder2_flist.txt
+my_adder2_xmdf.tcl

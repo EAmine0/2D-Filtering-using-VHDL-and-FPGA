@@ -1,0 +1,3 @@
+vhdl work "ipcore_dir/FIFO_new.vhd"
+vhdl work "FF_D.vhd"
+vhdl work "cache_sample_new.vhd"
